@@ -1,2 +1,2 @@
-# Chandra Shekhar Online Resume
+# Saraswati Rani Online Resume
 Simple website created using HTML,CSS,Bootstap to build an interactive resume.
